@@ -26,3 +26,44 @@ Nada de cosas como a = 10 si no se sabe qué es a.
 📝 Extra (opcional):
 Si terminas rápido, agrega una opción para ingresar las calificaciones desde consola, separadas por comas.
 
+# 🧩Nivel 2 – Día 2: Divide y Vencerás
+🎯 Objetivo:
+Aplicar el principio de modularidad, dividiendo el programa en funciones claras y reutilizables. Además, aceptar entrada por consola para que el programa sea más interactivo y útil.
+
+# 💻 Desafío:
+Reescribe tu programa para que:
+
+- Permita al usuario ingresar las calificaciones desde consola, separadas por comas (ej: 85,90,78,100).
+
+Valide los datos:
+
+- Ignorar valores no numéricos o fuera del rango 0-100.
+
+- Mostrar advertencia si se ignoran datos.
+
+- Use funciones separadas para:
+
+- Obtener entrada del usuario.
+
+- Validar y convertir la entrada.
+
+- Calcular estadísticas.
+
+- Mostrar resultados.
+
+# 🧱 Reglas:
+- Cada función debe hacer una sola cosa.
+
+- Usa nombres descriptivos.
+
+- Añade docstrings a cada función.
+
+- Sigue aplicando buenas prácticas de Nivel 1 (nombres, comentarios, legibilidad).
+
+# 💥 Extra (XP adicional si te animas):
+Añade opción para repetir el proceso sin cerrar el programa.
+Si no se ingresa ninguna calificación válida, mostrar un mensaje y volver a pedir entrada.
+
+# 🧙‍♂️ Tip mágico:
+Piensa en tu programa como si fuera una pequeña librería de utilidad que podrías usar en otro sistema. Modularizarlo ahora, es lo que te permitirá reusarlo mañana.
+
