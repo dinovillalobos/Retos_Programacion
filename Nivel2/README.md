@@ -30,6 +30,6 @@ Ingresa las calificaciones separadas por comas: 85, 90, 78, 100, 92
 - Documentación con docstrings
 - Buenas prácticas de estructura y nombres descriptivos
 
-✍️ Autor
+## ✍️ Autor
 Ricardo Domínguez Villalobos
 Reto técnico de nivel 2 – Codificador en progreso 🚀
