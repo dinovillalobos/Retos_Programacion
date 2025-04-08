@@ -13,6 +13,9 @@ Este programa permite al usuario ingresar múltiples calificaciones separadas po
 - Cálculo de estadísticas
 - Código limpio y dividido en funciones reutilizables
 
+## 🛠️ Tecnologías
+Lenguaje: Python 3.12.1
+
 ## 🧪 Cómo ejecutar
 python estadisticas_calificaciones.py
 El programa te pedirá ingresar calificaciones separadas por comas, por ejemplo:
