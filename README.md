@@ -1,10 +1,10 @@
 # Retos de programacion 
 
 # 🧱 Nivel 1 - Día 1: Código Legible y Ordenado
-# 🎯 Objetivo:
+## 🎯 Objetivo:
 Escribir código claro, con nombres de variables descriptivos, buena indentación, y comentarios que expliquen el por qué, no el cómo.
 
-# 🔍 Desafío:
+##🔍 Desafío:
 Crea un programa que reciba una lista de calificaciones de alumnos (entre 0 y 100), y devuelva:
 
 - El promedio.
@@ -13,7 +13,7 @@ Crea un programa que reciba una lista de calificaciones de alumnos (entre 0 y 10
 
 - La calificación más baja.
 
-# 👉 Usa buenas prácticas:
+## 👉 Usa buenas prácticas:
 
 - Nombres de variables claros.
 
@@ -23,47 +23,31 @@ Crea un programa que reciba una lista de calificaciones de alumnos (entre 0 y 10
 
 - Nada de cosas como a = 10 si no se sabe qué es a.
 
-# 📝 Extra (opcional):
-Si terminas rápido, agrega una opción para ingresar las calificaciones desde consola, separadas por comas.
 
-# 🧩Nivel 2 – Día 2: Divide y Vencerás
-🎯 Objetivo:
-Aplicar el principio de modularidad, dividiendo el programa en funciones claras y reutilizables. Además, aceptar entrada por consola para que el programa sea más interactivo y útil.
+# 🧩 Nivel 2 – Dia 2: Reto de validación y entrada de usuario
+## 🎯 Objetivo:
+Modificar el programa del reto anterior para que:
 
-# 💻 Desafío:
-Reescribe tu programa para que:
+- El usuario ingrese las calificaciones desde consola.
 
-- Permita al usuario ingresar las calificaciones desde consola, separadas por comas (ej: 85,90,78,100).
+- Solo acepte valores válidos (entre 0 y 100).
 
-Valide los datos:
+- Calcule y muestre el promedio, la nota más alta y más baja.
 
-- Ignorar valores no numéricos o fuera del rango 0-100.
+- El código esté bien modularizado y documentado.
 
-- Mostrar advertencia si se ignoran datos.
+## 🧪 Requisitos Técnicos:
+## ✅ Obligatorio:
+Usar input() para pedir calificaciones.
 
-- Use funciones separadas para:
+- Validar que cada entrada sea un número entre 0 y 100.
 
-- Obtener entrada del usuario.
+- Manejar errores con try/except (por si escriben letras, por ejemplo).
 
-- Validar y convertir la entrada.
+- Usar funciones para separar lógica.
 
-- Calcular estadísticas.
+## 🧠 Recomendado:
+Permitir ingresar varias calificaciones separadas por comas.
+Documentar todo con docstrings.
 
-- Mostrar resultados.
-
-# 🧱 Reglas:
-- Cada función debe hacer una sola cosa.
-
-- Usa nombres descriptivos.
-
-- Añade docstrings a cada función.
-
-- Sigue aplicando buenas prácticas de Nivel 1 (nombres, comentarios, legibilidad).
-
-# 💥 Extra (XP adicional si te animas):
-Añade opción para repetir el proceso sin cerrar el programa.
-Si no se ingresa ninguna calificación válida, mostrar un mensaje y volver a pedir entrada.
-
-# 🧙‍♂️ Tip mágico:
-Piensa en tu programa como si fuera una pequeña librería de utilidad que podrías usar en otro sistema. Modularizarlo ahora, es lo que te permitirá reusarlo mañana.
 
