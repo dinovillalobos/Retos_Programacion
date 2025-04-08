@@ -1,23 +1,50 @@
-# Estadísticas de Calificaciones
+# 🧮 Estadísticas Básicas de Calificaciones (Reto 1)
+## 🧠 Descripción
+Este programa calcula estadísticas simples a partir de una lista predefinida de calificaciones.
+Permite obtener:
+- El promedio
+- La calificación más alta
+- La calificación más baja
+- Está diseñado con una estructura modular y con nombres descriptivos, ideal para comenzar a practicar buenas prácticas en Python.
 
-Este programa calcula el promedio, la calificación más alta y la más baja a partir de una lista de calificaciones.
+## 🚀 Funcionalidades
+- Lista de calificaciones fija en el código
+- Cálculo de promedio, máximo y mínimo
+- Función separada para el procesamiento de datos
+- Código limpio, legible y documentado
 
-## Cómo usarlo
+## 🛠️ Tecnologías
+Lenguaje: Python 3.12.1
 
-1. Ejecuta el archivo `estadisticas.py`.
-2. Se usará una lista de calificaciones predefinida (puedes modificarla en el código).
-3. El programa mostrará:
-   - Promedio
-   - Calificación más alta
-   - Calificación más baja
+## 🧪 Cómo ejecutar
+python estadisticas_basicas.py
+El programa usa una lista fija, por ejemplo:
+calificaciones = [85, 92, 78, 90, 88]
+Y devuelve en consola:
+Promedio: 86.6
+Calificación más alta: 92
+Calificación más baja: 78
 
-## Ejemplo de salida
+## 🧠 Lo aprendido
+- Uso de funciones (def) para estructurar el código
+- Uso de sum(), min(), max() y len() en Python
+- Modularización básica
+- Buenas prácticas en nombres de variables
+- Uso de docstrings (""" """) para documentar funciones
 
-Promedio: 86.6 Calificación más alta: 92 Calificación más baja: 78
+## 💬 Frase clave aprendida
+"Average grade calculated successfully."
+
+## 🏅 Habilidades desarrolladas
+- Lógica de programación en Python
+- Lectura y manipulación de listas
+- Organización del código
+- Documentación básica
+- Primer paso hacia la validación y entrada dinámica
+
+## ✍️ Autor
+Ricardo Domínguez Villalobos
+Reto técnico de nivel 1 – Iniciando la aventura en código 🧩🔥
 
 
-
-## Autor
-
-Ricardo Domínguez Villalobos 🚀
 
