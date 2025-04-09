@@ -31,3 +31,32 @@ Este programa solicita una lista de calificaciones al usuario, las valida y lueg
 
 ## 💡 Ejemplo de uso
 
+Ingresa las calificaciones separadas por comas: 95, 82, 70, 55, 100
+
+Resultados: 95 -> A 82 -> B 70 -> C 55 -> F 100 -> A
+
+
+---
+
+## 🧠 Frase técnica del reto (EN)
+> "Grade classification based on score ranges"
+
+---
+
+## 🏅 Logros desbloqueados
+
+- ✅ Function Builder – Implementaste funciones bien separadas
+- ✅ Decision Maker – Usaste condicionales correctamente
+- ✅ Clean Output Artist – Mostraste datos de forma clara
+- ✅ Translator Badge (si lo traduces a inglés también 😉)
+
+---
+
+## 👾 Autor del nivel
+
+**RICARDO DOMÍNGUEZ VILLALOBOS**  
+Codificador en progreso 🚀
+
+
+
+
