@@ -30,7 +30,7 @@ Cada nivel representa una mejora en lógica, estructura y dominio de conceptos. 
 | Nivel | Título                         | Enlace                             |
 |-------|-------------------------------|------------------------------------|
 | 1     | Estadísticas de Calificaciones | [Ir al reto](https://github.com/dinovillalobos/Retos_Programacion/tree/152a1d32e1003e14551990e08f9bd7a89d094005/Nivel1/) |
-| 2     | Validación y Entrada Segura    | [Ir al reto](https://github.com/dinovillalobos/Retos_Programacion/tree/5d68ccdfac58ef2c4547f11e9af4bb37e092302b/Nivel2/)   |
+| 2     | Validación y Entrada Segura    | [Ir al reto](Nivel2)   |
 | 3     | Clasificación de Calificaciones | [Ir al reto](https://github.com/dinovillalobos/Retos_Programacion/tree/152a1d32e1003e14551990e08f9bd7a89d094005/Nivel3/)|
 | ...   | ...                             | ...                                |
 
