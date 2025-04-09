@@ -57,6 +57,6 @@ Este programa recibe una lista de calificaciones (números del 0 al 100) y devue
 Codificador en progreso 🚀
 
 
-> 📦 Parte de la serie: [Retos de Programación](../README.md)
+> 📦 Parte de la serie: [Retos de Programación](https://github.com/dinovillalobos/Retos_Programacion/blob/b44d068b601b7ac423c5f0877d4c41c44a7473d6/README.md)
 
 
