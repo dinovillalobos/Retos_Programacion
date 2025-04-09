@@ -1,41 +1,59 @@
 ![image alt](https://github.com/dinovillalobos/Retos_Programacion/blob/f8475529e5e9c43acb4cc687d2b73c5eb5904374/Imgenes/nivel1Fondo.png)
-# Retos de programacion 
+# 🚀 Retos de Programación – Aventura de Código
 
-# 🧱 Nivel 1 - Día 1: Código Legible y Ordenado
-## 🎯 Objetivo:
-Escribir código claro, con nombres de variables descriptivos, buena indentación, y comentarios que expliquen el por qué, no el cómo.
+> 📅 Un reto por día, una habilidad por nivel.  
+> 🎮 Inspirado en la gamificación y el aprendizaje técnico progresivo.
 
-## 🔍 Desafío:
-Crea un programa que reciba una lista de calificaciones de alumnos (entre 0 y 100), y devuelva:
-- El promedio.
-- La calificación más alta.
-- La calificación más baja.
+---
 
-## 👉 Usa buenas prácticas:
-- Nombres de variables claros.
-- Comentarios donde haga falta.
-- Código bien indentado.
-- Nada de cosas como a = 10 si no se sabe qué es a.
+## 📌 Descripción
 
+Este repositorio contiene una serie de retos diarios diseñados para mejorar mis habilidades como programador, aplicando buenas prácticas, escritura limpia, y documentación técnica en Python (por ahora).
 
+Cada nivel representa una mejora en lógica, estructura y dominio de conceptos. La idea es aprender de forma progresiva, como en un videojuego, desbloqueando logros y reflexionando al final de cada reto.
 
-# 🧩 Nivel 2 – Dia 2: Reto de validación y entrada de usuario
-## 🎯 Objetivo:
-Modificar el programa del reto anterior para que:
-- El usuario ingrese las calificaciones desde consola.
-- Solo acepte valores válidos (entre 0 y 100).
-- Calcule y muestre el promedio, la nota más alta y más baja.
-- El código esté bien modularizado y documentado.
+---
 
-## 🧪 Requisitos Técnicos:
-### ✅ Obligatorio:
-Usar input() para pedir calificaciones.
-- Validar que cada entrada sea un número entre 0 y 100.
-- Manejar errores con try/except (por si escriben letras, por ejemplo).
-- Usar funciones para separar lógica.
+## 🧠 ¿Qué incluye cada reto?
 
-## 🧠 Recomendado:
-Permitir ingresar varias calificaciones separadas por comas.
-Documentar todo con docstrings.
+- Código funcional
+- Documentación clara (`README`)
+- Banner visual estilo Game Dev
+- Reflexión personal
+- Logros técnicos desbloqueados
+- Frase clave en inglés para aprendizaje técnico-lingüístico
+
+---
+
+## 🧩 Niveles completados
+
+| Nivel | Título                         | Enlace                             |
+|-------|-------------------------------|------------------------------------|
+| 1     | Estadísticas de Calificaciones | [Ir al reto](nivel1_estadisticas/) |
+| 2     | Validación y Entrada Segura    | [Ir al reto](nivel2_validacion/)   |
+| 3     | Clasificación de Calificaciones | [Ir al reto](nivel3_clasificacion/)|
+| ...   | ...                             | ...                                |
+
+---
+
+## 🏅 Perfil del jugador
+
+**Nombre:** Ricardo Domínguez Villalobos  
+**Nivel actual:** 3  
+**Rol:** Codificador en progreso  
+**Meta:** Convertirme en un desarrollador sólido con bases técnicas limpias y estilo propio.
+
+---
+
+## 🔜 Próximos pasos
+
+- Automatizar pruebas con `pytest`
+- Subir versión en inglés para practicar el idioma
+- Explorar proyectos aplicados (mini juegos, CRUD, APIs)
+
+---
+
+> 💬 “No se trata de programar rápido, sino de programar mejor cada día.”  
+> — Ricardo
 
 
