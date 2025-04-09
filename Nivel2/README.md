@@ -1,35 +1,62 @@
-# 📊 Estadísticas de Calificaciones (Reto 2)
-## 🧠 Descripción
-Este programa permite al usuario ingresar múltiples calificaciones separadas por comas, las valida, y luego calcula:
-- El promedio de las calificaciones
-- La calificación más alta
-- La calificación más baja
-- El código está organizado de forma modular y documentado, implementando buenas prácticas de programación en Python.
+# 🎯 Nivel 2: Programación Básica – Validación y Entrada Segura
+> 🛡️ Defiende tu código de errores  
+> 💬 Mejora la interacción con el usuario
 
-## 🚀 Funcionalidades
-- Entrada de calificaciones por consola
-- Validación de valores numéricos entre 0 y 100
-- Manejo de errores (try/except) ante entradas inválidas
-- Cálculo de estadísticas
-- Código limpio y dividido en funciones reutilizables
+---
 
-## 🛠️ Tecnologías
-Lenguaje: Python 3.12.1
+## 🧾 Descripción
 
-## 🧪 Cómo ejecutar
-python estadisticas_calificaciones.py
-El programa te pedirá ingresar calificaciones separadas por comas, por ejemplo:
+En este reto el objetivo fue solicitar al usuario una lista de calificaciones, validarlas y calcular estadísticas básicas. Se agregaron estructuras para manejar errores, limpiar la entrada y asegurar que el programa no falle con datos inválidos.
 
-Ingresa las calificaciones separadas por comas: 85, 90, 78, 100, 92
+---
 
-## 🏅 Habilidades desarrolladas
-- Uso de input(), split(), strip() y validación con try/except
-- Filtrado de listas con comprensión
-- Modularización del código
-- Uso de min(), max(), sum() y len()
-- Documentación con docstrings
-- Buenas prácticas de estructura y nombres descriptivos
+## 📚 Tecnologías usadas
 
-## ✍️ Autor
-Ricardo Domínguez Villalobos
-Reto técnico de nivel 2 – Codificador en progreso 🚀
+- 🐍 Python 3
+- Funciones
+- Listas, manejo de errores (`try/except`)
+- Validaciones condicionales
+
+---
+
+## ⚙️ Funcionalidades
+
+- Solicita entrada al usuario con `input()`
+- Valida que las calificaciones sean números entre 0 y 100
+- Previene divisiones por cero
+- Muestra promedio, máximo y mínimo
+
+---
+
+## 💡 Ejemplo de uso
+> Ingresa las calificaciones separadas por comas: 90, 85, 100, 105
+
+> Promedio: 91.67
+
+> Calificación más alta: 100
+
+> Calificación más baja: 85
+
+---
+
+## 🧠 Frase técnica del reto (EN)
+> "Enter the student grades separated by commas"
+
+---
+
+## 🏅 Logros desbloqueados
+
+- ✅ Data Defender – Validaste que los datos estén en rango
+- ✅ Try/Except Warrior – Capturaste errores correctamente
+- ✅ User Experience Keeper – Interfaz clara para el usuario
+- ✅ Docstring Sensei – Documentaste funciones con estilo
+
+---
+
+## 👾 Autor del nivel
+
+**RICARDO DOMÍNGUEZ VILLALOBOS**  
+Codificador en progreso 🚀
+
+
+> 📦 Parte de la serie: [Retos de Programación](https://github.com/dinovillalobos/Retos_Programacion/blob/b44d068b601b7ac423c5f0877d4c41c44a7473d6/README.md)
