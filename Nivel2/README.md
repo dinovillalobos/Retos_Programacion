@@ -59,4 +59,4 @@ En este reto el objetivo fue solicitar al usuario una lista de calificaciones, v
 Codificador en progreso 🚀
 
 
-> 📦 Parte de la serie: [Retos de Programación](https://github.com/dinovillalobos/Retos_Programacion/blob/b44d068b601b7ac423c5f0877d4c41c44a7473d6/README.md)
+> 📦 Parte de la serie: [Retos de Programación](README.md)
