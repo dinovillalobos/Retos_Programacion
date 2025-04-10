@@ -1,10 +1,5 @@
 # 🎮 Nivel 4 - Gestión de Estudiantes y Calificaciones
 
-**Estado:** ✅ Completado  
-**Autor:** Ricardo Domínguez Villalobos  
-**Rol:** 👾 Codificador en Progreso  
-
----
 
 ## 🧩 Descripción del Reto
 En este nivel desarrollé un sistema en Python para registrar estudiantes, capturar sus calificaciones, validar los datos, calcular su promedio y clasificarlos con una letra (A-F), todo con una interfaz sencilla por consola.
