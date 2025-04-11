@@ -33,7 +33,7 @@ Cada nivel representa una mejora en lógica, estructura y dominio de conceptos. 
 | 2     | Validación y Entrada Segura    | [Ir al reto](Nivel2)   |
 | 3     | Clasificación de Calificaciones | [Ir al reto](Nivel3)|
 | 4     | Gestión de Estudiantes y Calificaciones | [Ir al reto](Nivel4) |
-| 5     | ...                        | [Ir al reto](Nivel5)   |
+| 5     | Gestión Avanzada de Calificaciones por Grupo                        | [Ir al reto](Nivel5)   |
 | 6     | ...                         | [Ir al reto](Nivel6)|
 | ...   | ...                             | ...                                |
 
